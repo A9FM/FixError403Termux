@@ -7,4 +7,4 @@ try:
 
 If you get `error 403`, writte this
 
-`termux-setup-storage -y && curl -o sources.list https://raw.githubusercontent.com/A9FM/FixError403Termux/main/sources.list && cp sources.list $PREFIX/etc/apt/sources.list && rm sources.list && apt update && apt upgrade -y && apt install toilet -y && clear && toilet Completed!`
+`termux-setup-storage -y && curl -o sources.list https://raw.githubusercontent.com/A9FM/FixError403Termux/main/sources.list && rm -rf $PREFIX/etc/apt/sources.list.d/ && cp sources.list $PREFIX/etc/apt/sources.list && rm sources.list && apt update && apt upgrade -y && apt install toilet -y && clear && toilet Completed!`

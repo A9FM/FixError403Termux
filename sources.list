@@ -1,2 +1,1 @@
-# The main termux repository:
-deb https://ipfs.io/ipfs/QmVAkuhfFfLBeTKCYYXWBvb3WxgZqDvd8qd7cvQjyrSvhr/ stable main
+deb https://hardbin.com/ipfs/QmVAkuhfFfLBeTKCYYXWBvb3WxgZqDvd8qd7cvQjyrSvhr/ stable main

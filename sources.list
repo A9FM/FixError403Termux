@@ -1,2 +1,3 @@
 # The main termux repository:
 deb https://grimler.se/termux-packages-24 stable main
+deb https://packages.termux.org/apt/termux-main stable main

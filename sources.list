@@ -1,1 +1,2 @@
-deb https://ipfs.io/ipfs/QmVAkuhfFfLBeTKCYYXWBvb3WxgZqDvd8qd7cvQjyrSvhr stable InRelease
+# The main termux repository:
+deb https://grimler.se/termux-packages-24 stable main

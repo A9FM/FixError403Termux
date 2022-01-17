@@ -1,5 +1,5 @@
-# FixError403Termux
-Fix Termux error 403
+# FixErrorTermux
+Fix Termux error
 
 try:
 

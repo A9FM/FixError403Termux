@@ -3,7 +3,7 @@ Fix Termux error
 
 try:
 
-`apt up -y`
+`pkg up -y`
 
 If you get `error 403` or `error 503`, writte this
 ```

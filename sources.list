@@ -2,3 +2,4 @@
 deb https://grimler.se/termux-packages-24 stable main
 deb https://packages.termux.org/apt/termux-main stable main
 deb https://packages-cf.termux.org/apt/termux-main stable main
+deb https://termux.mentality.rip/termux-main stable main
